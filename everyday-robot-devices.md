@@ -7,13 +7,15 @@ it is cutting a piece of paper along the drawn line. The prototype uses OpenCV f
 servos that automate the scissors cutting.
 </br>
 
-![barb_working_long_w_audio_for_install](https://user-images.githubusercontent.com/30060990/35479146-8b3b143e-03a4-11e8-82f4-328b65e1799f.gif)
+![barb_working_long_w_audio_for_install](https://user-images.githubusercontent.com/30060990/35479312-f6884b40-03a8-11e8-9917-bb9c7241f045.gif)
+
 
 </br>
 This is a collection of speculative robotic devices that I prototype to explore what the
 relationship between a human user and an artificialy intelligent collaboritve robot or cobot would be like.
 
 </br>
+
 ![img_20171207_120930](https://user-images.githubusercontent.com/30060990/35479135-1968fa6a-03a4-11e8-8282-280a538ad6fe.jpg)
 
 </br>
