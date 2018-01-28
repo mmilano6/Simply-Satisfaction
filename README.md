@@ -8,6 +8,8 @@ experience for both the user and the algorithm.
 This body of work has been guided by an earlier peice that I had done called Intermediary Transcendence Proxy (bellow) which has inspired me to make, prototype, and physicalize devices from the peice.
 
 <a href="https://vimeo.com/192294742">![intermediary_transcendence_proxy](https://user-images.githubusercontent.com/30060990/35479085-c7ca3d1e-03a2-11e8-8b30-ed2a22ecb27b.gif)</a>
+
+</br>
 https://vimeo.com/192294742
 
 With this project I wanted to explore what automated devices, simplified robots, 
