@@ -1,10 +1,14 @@
 # The-wonderful-world-of-Automated-Devices: Devices that only work when they see your face.
 
-This project is an iteration of an ongoing body of work that explores what 
-the relationship between artificially intelligent robots and humans are, 
+This project is a body of an ongoing work that explores the need to design human roles into robotics. I have been doing this by exploring what the relationship between artificially intelligent robots and humans are 
 when they are working with each other. Additionally what role does artificial 
 intelligence play in this relationship, and how can we as designers design the 
 experience for both the user and the algorithm.
+
+This body of work has been guided by an earlier peice that I had done called Intermediary Transcendence Proxy (bellow) which has inspired me to make, prototype, and physicalize devices from the peice.
+
+<a href="https://vimeo.com/192294742">![intermediary_transcendence_proxy](https://user-images.githubusercontent.com/30060990/35479085-c7ca3d1e-03a2-11e8-8b30-ed2a22ecb27b.gif)</a>
+https://vimeo.com/192294742
 
 With this project I wanted to explore what automated devices, simplified robots, 
 with machine vision would be like to work with. The project was explore through 
